@@ -1,9 +1,9 @@
 body { 
 text-align : center;
-bg-color : yellow;
-text : black ;
+background-color : rgb(241,165,88);
+color : black ;
 }
 #para {
-font : 20px;
+font : 40px;
 text-align=center;
 }
